@@ -1,2 +1,2 @@
-# friiibo.github.io
- My first site publication
+# Козак Павел Александрович
+My first site
